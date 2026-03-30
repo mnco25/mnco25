@@ -211,6 +211,6 @@ Python + Telegram + Meta Graph API pipeline for Valley O'Ville Family Resort, Ca
 
 ![Made in Philippines](https://img.shields.io/badge/Made_in-Philippines_🇵🇭-0038A8?style=flat-square&labelColor=0d0d0d) ![Loves Laravel](https://img.shields.io/badge/Loves-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white&labelColor=0d0d0d) ![Powered by AWS](https://img.shields.io/badge/Powered_by-AWS-F5A623?style=flat-square&logo=amazonaws&logoColor=white&labelColor=0d0d0d) ![Thinks in Game Theory](https://img.shields.io/badge/Thinks_in-Game_Theory-8B5CF6?style=flat-square&labelColor=0d0d0d) ![Grounded in Faith](https://img.shields.io/badge/Grounded_in-Christian_Faith-3B82F6?style=flat-square&labelColor=0d0d0d)
 
-<sub>Built with conviction · Dean's List · Latin Honors Track · <a href="https://marcocampo.dev">marcocampo.dev</a></sub>
+<sub>Built with conviction · <a href="https://marcocampo.dev">marcocampo.dev</a></sub>
 
 </div>
