@@ -85,6 +85,4 @@ Preparing for the **AWS Solutions Architect Associate**.
 
 <br/>
 
-<sub>Built in the Philippines.</sub>
-
 </div>
