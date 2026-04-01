@@ -122,23 +122,6 @@ Python + Telegram + Meta Graph API pipeline for Valley O'Ville Family Resort, Ca
 
 ---
 
-## `🏅 Certifications`
-
-<div align="center">
-
-| Certification | Issuer | Status |
-|:---|:---|:---:|
-| ☁️ **AWS Certified Cloud Practitioner (CLF-C02)** | Amazon Web Services | ✅ Verified |
-| 🛡️ **Fortinet NSE1 — Network Security Associate** | Fortinet | ✅ Verified |
-| 🛡️ **Fortinet NSE2 — Network Security Associate** | Fortinet | ✅ Verified |
-| 🏗️ **AWS Solutions Architect Associate (SAA-C03)** | Amazon Web Services | 🔄 In Progress · May 2026 |
-
-<a href="https://www.credly.com/users/marc-nino-christopher-ocampo"><img src="https://img.shields.io/badge/View_All_Verified_Badges_on_Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white&labelColor=0d0d0d" /></a>
-
-</div>
-
----
-
 ## `🛠️ Tech Stack`
 
 <div align="center">
@@ -166,9 +149,6 @@ Python + Telegram + Meta Graph API pipeline for Valley O'Ville Family Resort, Ca
 ## `📊 GitHub Stats`
 
 <div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=mnco25&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=F5A623&icon_color=F5A623&text_color=ffffff&count_private=true&rank_icon=github" />
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnco25&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=F5A623&text_color=ffffff&langs_count=8" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mnco25&theme=dark&hide_border=true&background=0d0d0d&ring=F5A623&fire=F5A623&currStreakLabel=F5A623&sideLabels=ffffff&dates=888888" />
 
